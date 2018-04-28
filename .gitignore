@@ -88,7 +88,7 @@ gen-external-apklibs
 *~
 *.swp
 
-/captures
+google-services.json
 
 # Android Patch
 
